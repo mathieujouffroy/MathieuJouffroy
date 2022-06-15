@@ -1,23 +1,11 @@
-### 👋 I'm Mathieu
-
 <!--
-**MathieuJouffroy/MathieuJouffroy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
 -->
-
+## 👋  I'm Mathieu
+<br>
 <div id="badges">
   <a href="https://www.linkedin.com/in/mathieu-jouffroy/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -33,13 +21,13 @@ Here are some ideas to get you started:
 - 🌱 Improving skills on [Tensorflow](https://www.tensorflow.org/guide)
 
 📚 Readings
-- 📖 [Deep Learning](https://www.deeplearningbook.org) - Courville,GoodFellow,Bengio
+- 📖 [Deep Learning](https://www.deeplearningbook.org) - Courville, GoodFellow, Bengio
+- 📖 [Learning OpenCV 4](https://www.oreilly.com/library/view/learning-opencv-4/9781789531619) - Howse, Minichino
 - 📖 [Computer Vision: Algorithms and Applications](https://szeliski.org/Book/) - Szeliski
-- 📖 [Learning OpenCV 4](https://www.oreilly.com/library/view/learning-opencv-4/9781789531619)
 
 # Recent projects 🌾 Agriculture 
 - 🌽 [Vic2L]() - Plant Disease Detection
 - 🐄 [Horus]() - Dairy Activity Monitoring using vision-based methods
-- 🌍 [Adaptaviz](https://www.adaptaviz.fr/) - Regional modeling of climate change impacts on crops [(github)](https://github.com/owalid/adaptaviz)
-
+- 🌍 [Adaptaviz](https://www.adaptaviz.fr/) - Regional modeling of climate change impacts on crops ([github](https://github.com/owalid/adaptaviz))
+<br>
 Cheers!
