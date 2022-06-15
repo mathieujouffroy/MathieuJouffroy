@@ -26,8 +26,9 @@
 - 📖 [Computer Vision: Algorithms and Applications](https://szeliski.org/Book/) - Szeliski
 
 # Recent projects 🌾 Agriculture 
-- 🌽 [Vic2L]() - Plant Disease Detection
-- 🐄 [Horus]() - Dairy Activity Monitoring using vision-based methods
+- 🌽 [Vic2L]() - Plant Disease Detection 
+- 🐄 [Cow-Neck]() - Dairy Activity detection using gyro accelerometer sensors
+- 🐄 [Horus](https://www.figma.com/file/Ca6qAhtFVE4yKdtX3zLrfN/Horus-Final?node-id=0%3A1) - Dairy Activity Monitoring using vision-based methods
 - 🌍 [Adaptaviz](https://www.adaptaviz.fr/) - Regional modeling of climate change impacts on crops ([github](https://github.com/owalid/adaptaviz))
 <br>
 Cheers!
