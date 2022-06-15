@@ -14,6 +14,7 @@
     <img src="https://img.shields.io/badge/Notion-white?style=for-the-badge&logo=notion&logoColor=black" alt="Notion Badge"/>
   </a>
 </div>
+🚀 All my AI notes are on Notion 
 
 # Latest News
 🖥 Code
