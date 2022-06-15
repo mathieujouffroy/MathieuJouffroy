@@ -1,4 +1,4 @@
-### Hi there 👋
+### 👋 I'm Mathieu
 
 <!--
 **MathieuJouffroy/MathieuJouffroy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -38,6 +38,8 @@ Here are some ideas to get you started:
 - 📖 [Learning OpenCV 4](https://www.oreilly.com/library/view/learning-opencv-4/9781789531619)
 
 # Recent projects 🌾 Agriculture 
-- 🌍 [Adaptaviz]
-- 🌽
-- 🐄
+- 🌽 [Vic2L]() - Plant Disease Detection
+- 🐄 [Horus]() - Dairy Activity Monitoring using vision-based methods
+- 🌍 [Adaptaviz](https://www.adaptaviz.fr/)[github](https://github.com/owalid/adaptaviz) - Regional modeling of climate change impacts on crops
+
+Cheers!
