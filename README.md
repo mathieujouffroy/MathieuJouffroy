@@ -30,11 +30,11 @@ Here are some ideas to get you started:
 </div>
 
 # Latest News
-🖥 : Code
+🖥 Code
 - 🌱 Improving skills on [OpenCV](https://opencv.org)
 - 🌱 Improving skills on [Tensorflow](https://www.tensorflow.org/guide)
 
-📚 : Readings
+📚 Readings
 - 📖 [Deep Learning](https://www.deeplearningbook.org) - Courville,GoodFellow,Bengio
 - 📖 [Computer Vision: Algorithms and Applications](https://szeliski.org/Book/) - Szeliski
 - 📖 [Learning OpenCV 4](https://www.oreilly.com/library/view/learning-opencv-4/9781789531619)
