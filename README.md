@@ -40,6 +40,6 @@ Here are some ideas to get you started:
 # Recent projects 🌾 Agriculture 
 - 🌽 [Vic2L]() - Plant Disease Detection
 - 🐄 [Horus]() - Dairy Activity Monitoring using vision-based methods
-- 🌍 [Adaptaviz](https://www.adaptaviz.fr/)<br>[github](https://github.com/owalid/adaptaviz)<br> - Regional modeling of climate change impacts on crops
+- 🌍 [Adaptaviz](https://www.adaptaviz.fr/) - Regional modeling of climate change impacts on crops [github](https://github.com/owalid/adaptaviz)
 
 Cheers!
