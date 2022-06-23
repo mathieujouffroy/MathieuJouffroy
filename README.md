@@ -25,6 +25,7 @@
 🖥 Code
 - 🌱 Improving skills on [OpenCV](https://opencv.org)
 - 🌱 Improving skills on [Tensorflow](https://www.tensorflow.org/guide)
+- 🌱 Improving skills 🤗 [Transformers]()
 
 📚 Readings
 - 📖 [Deep Learning](https://www.deeplearningbook.org) - Courville, GoodFellow, Bengio
@@ -35,8 +36,5 @@
 - 🌽 [Vic2L]() - Plant Disease Detection ([github]())
 - 🐮 [Cow-Neck]() - Dairy Activity detection using gyro accelerometer sensors ([github]())
 - 🌍 [Adaptaviz](https://www.adaptaviz.fr/) - Regional modeling of climate change impacts on crops ([github](https://github.com/owalid/adaptaviz))
-
-## New project
-- 🐄 [Horus](https://www.figma.com/file/Ca6qAhtFVE4yKdtX3zLrfN/Horus-Final?node-id=0%3A1) - Dairy Activity Monitoring using vision-based methods
 <br>
 Cheers!
