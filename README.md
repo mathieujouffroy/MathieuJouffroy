@@ -22,7 +22,6 @@
 🚀 My AI notes are on Notion 
 
 # Latest News
-🖥 Code
 - 🌱 Improving skills on [OpenCV](https://opencv.org)
 - ⚡️ Increasing proficiency in [Tensorflow](https://www.tensorflow.org/guide)
 - 🤗 Having fun with [Transformers](https://huggingface.co/docs/transformers/index)
