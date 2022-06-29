@@ -37,5 +37,5 @@
 - 🌽 [Vi2PC]() - Plant Disease Classification ([github]())
 - 🌍 [Adaptaviz](https://www.adaptaviz.fr/) - Regional modeling of climate change impacts on crops ([github](https://github.com/owalid/adaptaviz))
 - 🐮 Cow-Neck - Dairy Activity detection using gyro accelerometer sensors
-<br>
+
 Cheers!
