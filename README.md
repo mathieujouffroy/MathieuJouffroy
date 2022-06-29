@@ -33,7 +33,7 @@
 - 📖 [Computer Vision: Algorithms and Applications](https://szeliski.org/Book/) - Szeliski
 
 # Recent projects 🌾 Agriculture 
-- 🌽 [Vi2PC]() - Plant Disease Classification ([github]())
+- 🌽 [Vi2PDC]() - Plant Disease Classification ([github]())
 - 🐮 [Cow-Neck]() - Dairy Activity detection using gyro accelerometer sensors ([github]())
 - 🌍 [Adaptaviz](https://www.adaptaviz.fr/) - Regional modeling of climate change impacts on crops ([github](https://github.com/owalid/adaptaviz))
 <br>
