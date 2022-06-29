@@ -19,7 +19,7 @@
 </div>
 🚀 My AI notes are on Notion 
 
-# Latest News
+## Latest News
 - 🌱 Improving skills on [OpenCV](https://opencv.org)
 - ⚡️ Increasing proficiency in [Tensorflow](https://www.tensorflow.org/guide)
 - 🤗 Having fun with [Transformers](https://huggingface.co/docs/transformers/index)
@@ -30,7 +30,7 @@
 - 📖 [Computer Vision: Algorithms and Applications](https://szeliski.org/Book/) - Szeliski
 
 
-# Recent projects 🌾 Agriculture 
+## Recent projects 🌾 Agriculture 
 - 🌽 [Vi2PC]() - Plant Disease Classification ([github]())
 - 🌍 [Adaptaviz](https://www.adaptaviz.fr/) - Regional modeling of climate change impacts on crops ([github](https://github.com/owalid/adaptaviz))
 - 🐮 Cow-Neck - Dairy Activity detection using gyro accelerometer sensors
