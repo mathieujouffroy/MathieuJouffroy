@@ -36,4 +36,5 @@
 - 🐮 Cow-Neck - Dairy Activity detection using gyro accelerometer sensors
 
 Cheers!
+
 ⚠️ Page is not finished 
