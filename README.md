@@ -1,5 +1,3 @@
-⚠️ Page is not finished 
-
 <!--
 - 👯 I’m looking to collaborate on ...
 <div id="header" align="center">
@@ -38,3 +36,4 @@
 - 🐮 Cow-Neck - Dairy Activity detection using gyro accelerometer sensors
 
 Cheers!
+⚠️ Page is not finished 
