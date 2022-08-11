@@ -16,13 +16,12 @@
 🚀 My AI notes are on Notion 
 
 ## Latest News
-- 🌱 Improving skills on [OpenCV](https://opencv.org)
-- ⚡️ Increasing proficiency in [Tensorflow](https://www.tensorflow.org/guide)
 - 🤗 Having fun with [Transformers](https://huggingface.co/docs/transformers/index)
+- ⚡️ Increasing proficiency in [Tensorflow](https://www.tensorflow.org/guide)
+- 🌱 Improving skills in image processing with [OpenCV](https://opencv.org)
 
 📚 Current Readings Refs:
 - 📖 [Deep Learning](https://www.deeplearningbook.org) - Courville, GoodFellow, Bengio
-- 📖 [Learning OpenCV 4](https://www.oreilly.com/library/view/learning-opencv-4/9781789531619) - Howse, Minichino
 - 📖 [Computer Vision: Algorithms and Applications](https://szeliski.org/Book/) - Szeliski
 
 
