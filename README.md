@@ -3,6 +3,9 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
+📚 Current Readings Refs:
+- 📖 [Deep Learning](https://www.deeplearningbook.org) - Courville, GoodFellow, Bengio
+- 📖 [Computer Vision: Algorithms and Applications](https://szeliski.org/Book/) - Szeliski
 -->
 ## 👋  I'm Mathieu
 <div id="badges">
@@ -19,10 +22,6 @@
 - 🤗 Having fun with [Transformers](https://huggingface.co/docs/transformers/index)
 - ⚡️ Increasing proficiency in [Tensorflow](https://www.tensorflow.org/guide)
 - 🌱 Improving skills in image processing with [OpenCV](https://opencv.org)
-
-📚 Current Readings Refs:
-- 📖 [Deep Learning](https://www.deeplearningbook.org) - Courville, GoodFellow, Bengio
-- 📖 [Computer Vision: Algorithms and Applications](https://szeliski.org/Book/) - Szeliski
 
 
 ## Recent projects 🌾 Agriculture 
