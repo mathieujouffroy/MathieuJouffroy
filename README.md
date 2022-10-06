@@ -20,7 +20,7 @@
 
 ## Latest News
 - 🤗 Having fun with [Transformers](https://huggingface.co/docs/transformers/index)
-- ⚡️ Increasing proficiency in [Tensorflow](https://www.tensorflow.org/guide)
+- ⚡️ Increasing proficiency in [Tensorflow](https://www.tensorflow.org/guide) & [Pytorch](https://pytorch.org/docs/stable/index.html)
 - 🌱 Improving skills in image processing with [OpenCV](https://opencv.org)
 
 
