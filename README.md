@@ -27,7 +27,7 @@
 
 
 ## Recent projects 🌾 Agriculture 
-- 🌽 [Vi2PC](https://github.com/mathieujouffroy/Vi2PC) - Crop Disease Classification 
+- 🌽 [PopYourCrop](https://github.com/mathieujouffroy/Vi2PC) - Crop Disease Classification 
 - 🌍 [Adaptaviz](https://www.adaptaviz.fr/) - Regional modeling of climate change impacts on crops ([github](https://github.com/owalid/adaptaviz))
 - 🐮 [Cow-Neck-tid](https://github.com/owalid/cow-neck-tid) - Monitoring cow activity and behaviour through gyro accelerometer sensors
 
