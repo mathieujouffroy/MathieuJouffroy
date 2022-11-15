@@ -13,12 +13,6 @@
 
 -->
 ## 👋  I'm Mathieu
-<div id="badges">
-  <a href="https://noiseless-sodalite-b3c.notion.site/AI-5dbc721eaff54ecb9cd238f8dc1a6b86">
-    <img src="https://img.shields.io/badge/Notion-white?style=for-the-badge&logo=notion&logoColor=black" alt="Notion Badge"/>
-  </a>
-</div>
-🚀 My AI notes are on Notion 
 
 ## Latest News
 - 🤗 Having fun with [Transformers](https://huggingface.co/docs/transformers/index)
@@ -31,6 +25,14 @@
 - 🌍 [Adaptaviz](https://www.adaptaviz.fr/) - Regional modeling of climate change impacts on crops ([github](https://github.com/owalid/adaptaviz))
 - 🐮 [Cow-Neck-tid](https://github.com/owalid/cow-neck-tid) - Monitoring cow activity and behaviour through gyro accelerometer sensors
 
+<br>
+<div id="badges">
+  <p>📚 My Machine Learning notes are on :</p>  
+  <a href="https://noiseless-sodalite-b3c.notion.site/AI-5dbc721eaff54ecb9cd238f8dc1a6b86">
+    <img src="https://img.shields.io/badge/Notion-white?style=for-the-badge&logo=notion&logoColor=black" alt="Notion Badge"/>
+  </a>
+</div>
+<br>
 Cheers!
 
 <br>
