@@ -20,7 +20,8 @@
 - 🌱 Improving skills in image processing with [OpenCV](https://opencv.org)
 
 
-## Recent projects 🌾 Agriculture 
+## Recent projects 
+- 🏥 [3DBraTS](https://github.com/mathieujouffroy/3DBraTS) - 3D Brain Tumor Segmentation 
 - 🌽 [CropCare](https://github.com/mathieujouffroy/Vi2PC) - Crop Disease Classification 
 - 🌍 [Adaptaviz](https://www.adaptaviz.fr/) - Regional modeling of climate change impacts on crops ([github](https://github.com/owalid/adaptaviz))
 - 🐮 [Cow-Neck-tid](https://github.com/owalid/cow-neck-tid) - Monitoring cow activity and behaviour through gyro accelerometer sensors
