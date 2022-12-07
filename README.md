@@ -15,7 +15,7 @@
 ## 👋  I'm Mathieu
 
 ## Latest News
-- 🤗 Having fun with [Transformers](https://huggingface.co/docs/transformers/index)
+- 🤗 Having fun with [Transformers](https://huggingface.co/docs/transformers/index) & [Diffusers](https://huggingface.co/docs/diffusers/index)
 - ⚡️ Increasing proficiency in [Tensorflow](https://www.tensorflow.org/guide) & [Pytorch](https://pytorch.org/docs/stable/index.html)
 - 🌱 Improving skills in image processing with [OpenCV](https://opencv.org)
 
