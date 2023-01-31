@@ -28,12 +28,19 @@
 
 <br>
 <div id="badges">
-  <p>📚 My Machine Learning notes are on :</p>  
+  <p>📚 Machine Learning notes:</p>  
   <a href="https://noiseless-sodalite-b3c.notion.site/AI-5dbc721eaff54ecb9cd238f8dc1a6b86">
     <img src="https://img.shields.io/badge/Notion-white?style=for-the-badge&logo=notion&logoColor=black" alt="Notion Badge"/>
-  </a>
+  </a> 
 </div>
 <br>
+<div id="badges">
+  <p>📋 Public reports:</p>  
+  <a href="https://wandb.ai/mjouffro">
+    <img src="https://raw.githubusercontent.com/wandb/assets/main/wandb-github-badge-28.svg" alt="Notion Badge"/>
+  </a>
+ </div>
+ <br>
 Cheers!
 
 <br>
