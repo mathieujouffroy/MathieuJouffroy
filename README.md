@@ -11,21 +11,23 @@
     <img src="https://camo.githubusercontent.com/5c70f08219d50671f896067e1024b0db9dfca119304d0d977cbf273565be32fc/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f7374796c653d666f722d7468652d6261646765266d6573736167653d576569676874732b2532362b42696173657326636f6c6f723d323232323232266c6f676f3d576569676874732b2532362b426961736573266c6f676f436f6c6f723d464642453030266c6162656c3d" alt="Weight&Biases Badge"/>
   </a>
 
--->
-## 👋  I'm Mathieu
-
-## Latest News
-- 🤗 Having fun with [Transformers](https://huggingface.co/docs/transformers/index) & [Diffusers](https://huggingface.co/docs/diffusers/index)
-- ⚡️ Increasing proficiency in [Tensorflow](https://www.tensorflow.org/guide) & [Pytorch](https://pytorch.org/docs/stable/index.html)
-- 🌱 Improving skills in image processing with [OpenCV](https://opencv.org)
-
-
 ## Recent projects 
 - 🎨 [Diffusion-notebooks](https://github.com/mathieujouffroy/Diffusion_notebooks) - Diffusion models for a variety of use cases
 - 🏥 [Biagnostic](https://github.com/mathieujouffroy/3DBraTS) - 3D Brain Tumor Segmentation 
 - 🌽 [CropCare](https://github.com/mathieujouffroy/Vi2PC) - Crop Disease Classification 
 - 🌍 [Adaptaviz](https://www.adaptaviz.fr/) - Regional modeling of climate change impacts on crops ([github](https://github.com/owalid/adaptaviz))
+## Latest News
+- 🌱 Improving skills in image processing with [OpenCV](https://opencv.org)
+- ⚡️ Increasing proficiency in [Pytorch](https://pytorch.org/docs/stable/index.html)
 
+-->
+## 👋  I'm Mathieu
+I'm passionate aboute Creative AI, Computer Vision & NLP
+
+## Latest News & Past Projects
+- 🤗 Having fun with diffusion models
+- 🖼 Worked on outpainting (AI background generation) for product photography
+  
 <br>
 <div id="badges">
   <p>📚 Machine Learning notes:</p>  
