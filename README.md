@@ -30,7 +30,7 @@ I'm passionate aboute Creative AI, Computer Vision & NLP
   
 <br>
 <div id="badges">
-  <p>📚 Machine Learning notes (old notes) :</p>  
+  <p>📚 Machine Learning notes (old notes, update coming soon) :</p>  
   <a href="https://noiseless-sodalite-b3c.notion.site/AI-5dbc721eaff54ecb9cd238f8dc1a6b86">
     <img src="https://img.shields.io/badge/Notion-white?style=for-the-badge&logo=notion&logoColor=black" alt="Notion Badge"/>
   </a> 
