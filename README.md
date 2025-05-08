@@ -20,16 +20,6 @@
 - 🌱 Improving skills in image processing with [OpenCV](https://opencv.org)
 - ⚡️ Increasing proficiency in [Pytorch](https://pytorch.org/docs/stable/index.html)
 
--->
-## 👋  I'm Mathieu
-I'm passionate aboute Creative AI, Computer Vision & NLP
-
-## Latest News & Past Projects
-- 🤗 Having fun with diffusion models
-- 🖼 Working on image generation capabilities
-- Key Contributions : 
-  - Trained a diffusion model for for product photography (outpainting - AI background generation) 
-  
 <br>
 <div id="badges">
   <p>📚 Machine Learning notes:</p>  
@@ -48,3 +38,14 @@ I'm passionate aboute Creative AI, Computer Vision & NLP
 Cheers!
 
 <br>
+-->
+## 👋  I'm Mathieu
+I'm passionate aboute Creative AI, Computer Vision & NLP
+
+## Latest News & Past Projects
+- 🤗 Having fun with diffusion models
+- 🖼 Working on image generation capabilities
+- Key Contributions : 
+  - Trained a diffusion model for for product photography (outpainting - AI background generation) 
+  
+
