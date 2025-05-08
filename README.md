@@ -26,12 +26,14 @@ I'm passionate aboute Creative AI, Computer Vision & NLP
 
 ## Latest News & Past Projects
 - 🤗 Having fun with diffusion models
-- 🖼 Worked on outpainting (AI background generation) for product photography
+- 🖼 Working on image generation capabilities
+- Key Contributions : 
+  - Trained a diffusion model for for product photography (outpainting - AI background generation) 
   
 <br>
 <div id="badges">
   <p>📚 Machine Learning notes (old notes, update coming soon) :</p>  
-  <a href="https://noiseless-sodalite-b3c.notion.site/AI-5dbc721eaff54ecb9cd238f8dc1a6b86">
+  <a href="[https://noiseless-sodalite-b3c.notion.site/AI-5dbc721eaff54ecb9cd238f8dc1a6b86](https://www.notion.so/ML-DL-5dbc721eaff54ecb9cd238f8dc1a6b86)">
     <img src="https://img.shields.io/badge/Notion-white?style=for-the-badge&logo=notion&logoColor=black" alt="Notion Badge"/>
   </a> 
 </div>
